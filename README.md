@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
-<h3 align="center">A passionate full-stack developer from Colombia, I'm now living and enjoying the beauty of Vancouver, Canada. After many years coordinating projects in other fields, I've recently started a new relationship with coding. I'm happy to be getting hands-on with development, discovering wonderful things about this impressive world and its vibrant tech community.</h3>
+<h3 align="center">A passionate full-stack developer from Colombia, I'm now living and enjoying the beauty of British Columbia, Canada. After many years coordinating projects in other fields, I've recently started a new relationship with coding. I'm happy to be getting hands-on with development, discovering wonderful things about this impressive world and its vibrant tech community.</h3>
 
 - 📫 How to reach me **cathemolinab@gmail.com**
 
