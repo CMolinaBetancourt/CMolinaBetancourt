@@ -8,6 +8,14 @@ I saw web development as the perfect opportunity to combine my experience with t
 
 ---
 
+Soy una desarrolladora full-stack de Colombia que ahora vive y disfruta de la belleza de la Columbia Británica, Canadá. Me apasiona crear soluciones tecnológicas que aporten valor a las empresas y a los clientes, y que ayuden a los negocios a prosperar y crecer.
+
+Cuento con experiencia en gestión de proyectos, marketing y servicio al cliente. Mis habilidades técnicas incluyen NestJS, Node.js, Express, PostgreSQL, React, Next.js y TypeScript. Durante más de 14 años, estuve inmerso en el mundo empresarial, liderando proyectos y adquiriendo una comprensión integral de cada aspecto de una empresa impulsando mejoras en la productividad. Aprendí a desarrollar mi visión estratégica, formar equipos y compartir un objetivo común 🤝, algo que hoy valoro más que nunca.
+
+Vi en el desarrollo web la oportunidad perfecta para combinar mi experiencia con la tecnología. Así fue como encontré a Henry, donde, en un bootcamp intensivo de cuatro meses con más de 800 horas de código, me convertí en una desarrolladora full-stack 🎓. Ahora, estoy lista para unirme a un equipo donde pueda seguir aprendiendo, contribuir con mi visión y alcanzar metas grandes y desafiantes!🚀
+
+---
+
 ## 🛠️ Languages and Tools
 
 **Backend**
