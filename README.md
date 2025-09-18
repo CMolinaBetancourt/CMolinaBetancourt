@@ -22,7 +22,7 @@ Vi en el desarrollo web la oportunidad perfecta para combinar mi experiencia con
 🌿 Node.js · 🐚 NestJS · 🚏 Express · 🐘 PostgreSQL · 🍃 MongoDB · 🧃 TypeScript
 
 **Frontend**
-⚛️ React · ✨ Next.js · 🧃 TypeScript · 📜 JavaScript · 🌐 HTML5 · 🎨 CSS3 · 🎨 Bootstrap
+⚛️ React · ✨ Next.js · 🧃 TypeScript · 📜 JavaScript · 🌐 HTML5 · 🎨 CSS · 🎨 Bootstrap
 
 ---
 
